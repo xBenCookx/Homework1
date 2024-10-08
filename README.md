@@ -1,2 +1,2 @@
-# Homework-1
+# Homework1
 Home work 1 sample
